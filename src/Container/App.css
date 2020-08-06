@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'heatwaveregular';
+    src: url('heatwave-webfont.woff2') format('woff2'),
+         url('heatwave-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1 {
+    font-family: 'heatwaveregular';
+    font-weight: 200;
+    color: #0ccac4;
+
+}
