@@ -1,5 +1,5 @@
 # Robots
-To run this project 
-  1.Clone this repo
-  2.npm install
-  2.npm start
+To run this project <br>
+    1.Clone this repo <br>
+    2.npm install <br>
+    3.npm start
